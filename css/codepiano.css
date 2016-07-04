@@ -30,8 +30,9 @@ a:active {
   text-decoration: none;
 }
 
+/*点击之后颜色效果*/
 a:visited {
-  color: #FF6699;
+  color: #169FDE;;
 }
 
 /* 主页中央区域 */

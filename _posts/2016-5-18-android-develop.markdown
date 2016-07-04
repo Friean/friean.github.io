@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Android Develop
-tags:
-- Android
+tags: [Android]
 categories: Android
 description: Android 是谷歌开发的一个开源的基于Linux的操作系统，主要适用于智能手机和平板电脑,由谷歌和手机开放联盟领导开发。
 ---

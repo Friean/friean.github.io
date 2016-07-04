@@ -7,7 +7,21 @@ categories: [Android]
 ---
 {% include codepiano/setup %}
 
-# bulding
+
+<img src="/image/bg_home.jpg" width="100%" height="300"/>  
+
+
+<br>  
+
+# <a href="/posts">人类群星闪耀史</a>
+
+# <a href="/posts">逸事录</a>
+
+# <a href="/posts">文章</a>
+
+
+
+
 
 <br />
 
