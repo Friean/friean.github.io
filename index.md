@@ -17,23 +17,9 @@ categories: [Android]
 
 # <a href="/posts">逸事录</a>
 
-# <a href="/sentence">趣闻录</a>
-
 # <a href="/posts">博客</a>
 
 <!--<a href="/apk/stetho_sample.apk">下载</a>-->
-
-{% for post in site.posts  %}
-<tr>
-    {% if post.tags+""=="Java" %}
-     {{ post.title }} 
-     {{ post.tags }}
-     <br/>
-    {% endif %}
-</tr>
-{% endfor %}
-
-hello
 
 <br />
 
