@@ -1,4 +1,4 @@
-{% comment %} timeline.html页面中的时间锚点 {% endcomment %}
+ {% comment %} timeline.html页面中的时间锚点 {% endcomment %}
 
 {% for post in posts_list %}
   {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}

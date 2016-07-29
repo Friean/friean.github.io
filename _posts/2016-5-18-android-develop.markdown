@@ -7,7 +7,7 @@ description: Android 是谷歌开发的一个开源的基于Linux的操作系统
 ---
 
 
-> 版权声明：本博为博主原创文章，未经博主允许禁止转载  
+     版权声明：本博为博主原创文章，转载请注明出处:www.friean.com
 
 #  API Guides  (Android 简介)  
 
