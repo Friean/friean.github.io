@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 对于String的value的理解
+title: AndroidStudio常用快捷键
 tags:
 - android
 categories: Java
-description: 大家好，这次讲讲我的对java的value的理解
+description: AndroidStudio 快捷键记录
 ---
 1、Bookmarks（书签）
 位置：Menu->Navigate->Bookmarks
