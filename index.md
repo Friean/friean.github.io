@@ -26,7 +26,7 @@ categories: [Android]
 
 <!--<a href="/apk/stetho_sample.apk">下载</a>-->
 
-<!--<table>
+<table>
     <tr>
         <td>hello11111111111111111111111111111111111111111111</td>
         <td>hello22222222222222                              </td>
@@ -37,7 +37,7 @@ categories: [Android]
         <td>hello4444444444444444444444                      </td>
         <td>hello555555555555555555555555555555555555        </td>
     </tr>
-</table>-->
+</table>
 
 
 
@@ -58,6 +58,6 @@ var duoshuoQuery = {short_name:"frieancn"};
 		(document.getElementsByTagName('head')[0] 
 		 || document.getElementsByTagName('body')[0]).appendChild(ds);
 	})();
-	</script>
+</script>
 <!-- 多说公共JS代码 end -->
 </div>
