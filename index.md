@@ -11,33 +11,21 @@ categories: [Android]
 # 历久弥新才是经典
 
 <br/>  
-
-
 <embed src="http://music.163.com/style/swf/widget.swf?sid=2102361&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all"/> 
 <br/>
 
  <a href="/posts">人类群星闪耀史</a>
  
- building...
+    象棋终日乐悠悠，苦被严亲一旦丢。
+    兵卒坠河皆不救，将军溺水一齐休。
+    马行千里随波去，象入三川逐浪游。
+    炮响一声天地震，忽然惊起卧龙愁。
 
 <!-- <a href="/posts">逸事录</a>
 
  <a href="/posts">博客</a>-->
 
 <!--<a href="/apk/stetho_sample.apk">下载</a>-->
-
-<table>
-    <tr>
-        <td>hello11111111111111111111111111111111111111111111</td>
-        <td>hello22222222222222                              </td>
-        <td>hello333333333333333333333333333333333333        </td>
-    </tr>
-     <tr>
-        <td>hello333                                         </td>
-        <td>hello4444444444444444444444                      </td>
-        <td>hello555555555555555555555555555555555555        </td>
-    </tr>
-</table>
 
 
 
