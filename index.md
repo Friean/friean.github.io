@@ -8,15 +8,33 @@ categories: [Android]
 {% include codepiano/setup %}
 <!--<img src="/image/bg_home.jpg" width="100%" height="300"/> -->  
 
-# 历久弥新才是经典
+<!--# 历久弥新才是经典-->
+<!---->
+<!--<br/>  -->
+<!--<embed src="http://music.163.com/style/swf/widget.swf?sid=2102361&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all"/> -->
+<!--<br/>-->
+<!---->
+<!-- <a href="/posts">人类群星闪耀史</a>-->
 
-<br/>  
-<embed src="http://music.163.com/style/swf/widget.swf?sid=2102361&type=2&auto=1&width=320&height=66" width="340" height="86"  allowNetworking="all"/> 
-<br/>
+# 斩炎
 
- <a href="/posts">人类群星闪耀史</a>
+ 格物致知-无善无恶心之体，有善有恶意之动，知善知恶是良知，为善去恶是格物。
+
+ 天地之道  
+
+ 心灵之道  
+
+ 处世之道  
+
+ 君子之道  
+
+ 交友之道  
+
+ 理想之道  
+
+ 人生之道
  
-
+--------------------------   
 # 思路
 
 观察现象，了解本质
