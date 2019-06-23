@@ -17,30 +17,32 @@ description: AndroidStudio 快捷键记录
 位置：Setting->Editor->General->Code Folding设置折叠规则
 - Ctrl+Shift+"+或-"：打开/折叠代码
 
-3、Compare with branch git (与分支比对) 
-位置：Menu->VCS->Git->Compare with branch 
+3、Structure 查看当前类结构
+位置：View->tool window->Structure
+- Alt + 7
 
 
-4、compare with clipboard(与剪切板对比) 
+4、Hierarchy 查看当前类的层次关系
+- Alt+ 8
 
-- 右键选中部分，在菜单中选“Compare with clipboard” 
-
-5、Context info(顶部显示类名)
-- Alt+Q
+5、常用面板切换:project、favorites、find、run、debug、logcat、VersionContrl
+- Alt   +		1 		  2 	  3    4 	5 		6       9
 
 6、Find Action（查找操作）
 - Ctrl+Shift+A:查找没有快捷键的操作比较方便
+
+7、查找所有的使用
+位置：Edit->Find->Find All Useages
+- Alt + F7
  
-7、Find Complection(查找补全)
-- Ctrl+F
+8、切换跳转
+切换：Edit->Find->Find Next/Previous 跳转选中内容下一次出现的地方
+- F3 / Shift+F3
 
-8、Hide All Panels（隐藏所有面板）
+
+9、Hide All Panels（隐藏所有面板）
 位置：Menu->Window->Active Tool Window->Hide All Windows
-- Chtrl+Shift+F12
-
-9、HightLight All the Things(高亮一切)
-位置：Menu->Edit->Find->Hightlight Usages in File
-切换：Menu->Edit->Find->Find Next/Previous
+- Contrl+Shift+F12
 退出：Esc
 
 10、Jump to Last Tool Window(回到上一个工具窗口)
@@ -55,12 +57,13 @@ description: AndroidStudio 快捷键记录
 位置：Menu->Navigate->Super Class/Method
 - Ctrl+U:定位到父类或方法
 
-13、Open a panel by ths number(根据编号打开面板)
-- Alt+数字：打开对应面板
 
 14、Open file externally(外部打开文件)
 - Ctrl+鼠标左键：要打开的文件
 
 15、Parameter info(参数信息)
-- Ctrl+U:
+- Ctrl+P:
+
+16、方法跳转
+- Alt+上箭头 、 Alt + 下箭头
  
